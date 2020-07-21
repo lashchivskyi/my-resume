@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/lashchivskyi/my-resume.git/static/css/main.d08d6079.chunk.css",
+    "main.js": "/lashchivskyi/my-resume.git/static/js/main.dfe13bd4.chunk.js",
+    "main.js.map": "/lashchivskyi/my-resume.git/static/js/main.dfe13bd4.chunk.js.map",
+    "runtime-main.js": "/lashchivskyi/my-resume.git/static/js/runtime-main.87a5d05f.js",
+    "runtime-main.js.map": "/lashchivskyi/my-resume.git/static/js/runtime-main.87a5d05f.js.map",
+    "static/js/2.aea446bb.chunk.js": "/lashchivskyi/my-resume.git/static/js/2.aea446bb.chunk.js",
+    "static/js/2.aea446bb.chunk.js.map": "/lashchivskyi/my-resume.git/static/js/2.aea446bb.chunk.js.map",
+    "index.html": "/lashchivskyi/my-resume.git/index.html",
+    "precache-manifest.3fda70c508e1ed4302320055d61db8b1.js": "/lashchivskyi/my-resume.git/precache-manifest.3fda70c508e1ed4302320055d61db8b1.js",
+    "service-worker.js": "/lashchivskyi/my-resume.git/service-worker.js",
+    "static/css/main.d08d6079.chunk.css.map": "/lashchivskyi/my-resume.git/static/css/main.d08d6079.chunk.css.map",
+    "static/js/2.aea446bb.chunk.js.LICENSE.txt": "/lashchivskyi/my-resume.git/static/js/2.aea446bb.chunk.js.LICENSE.txt",
+    "static/media/Irma.png": "/lashchivskyi/my-resume.git/static/media/Irma.1f7bf096.png",
+    "static/media/crepperie.jpg": "/lashchivskyi/my-resume.git/static/media/crepperie.44c2c3a9.jpg",
+    "static/media/istudio.jpg": "/lashchivskyi/my-resume.git/static/media/istudio.e44fcbfa.jpg",
+    "static/media/itea.png": "/lashchivskyi/my-resume.git/static/media/itea.e42edd2f.png",
+    "static/media/liet.jpg": "/lashchivskyi/my-resume.git/static/media/liet.7ca3ddff.jpg",
+    "static/media/myFoto.jpg": "/lashchivskyi/my-resume.git/static/media/myFoto.c744e9a8.jpg",
+    "static/media/skill.jpg": "/lashchivskyi/my-resume.git/static/media/skill.3bc77c69.jpg",
+    "static/media/softServe.jpg": "/lashchivskyi/my-resume.git/static/media/softServe.971abeca.jpg",
+    "static/media/website.png": "/lashchivskyi/my-resume.git/static/media/website.1e44bf44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87a5d05f.js",
+    "static/js/2.aea446bb.chunk.js",
+    "static/css/main.d08d6079.chunk.css",
+    "static/js/main.dfe13bd4.chunk.js"
+  ]
+}
