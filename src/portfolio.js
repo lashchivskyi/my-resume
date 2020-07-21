@@ -57,15 +57,19 @@ const techStack = {
   experience: [
     {
       Stack: "HTML 5",
-      progressPercentage: "70%",
+      progressPercentage: "71%",
     },
     {
       Stack: "CSS 3",
       progressPercentage: "65%",
     },
     {
+      Stack: "JS",
+      progressPercentage: "66%",
+    },
+    {
       Stack: "React/Redux",
-      progressPercentage: "60%",
+      progressPercentage: "70%",
     },
   ],
 };
