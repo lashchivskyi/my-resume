@@ -1,1 +1,1 @@
-my resume: https://lashchivskyi.github.io/my-cv/
+my resume: https://github.com/lashchivskyi/my-resume.git
