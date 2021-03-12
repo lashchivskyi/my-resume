@@ -11,7 +11,7 @@
     "deploy-app": "^1.0.3",
     "formik-effect": "^1.2.0",
     "react": "^16.13.1",
-    "react-dev-utils": "^10.0.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.13.1",
     "react-easy-emoji": "^1.4.0",
     "react-reveal": "^1.2.2",
